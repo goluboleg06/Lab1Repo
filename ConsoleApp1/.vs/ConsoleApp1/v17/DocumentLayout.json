@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab1Repo\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|d:\\lab1repo\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|d:\\lab1repo\\consoleapp1\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|solutionrelative:calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|d:\\lab1repo\\consoleapp1\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|solutionrelative:birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|d:\\lab1repo\\consoleapp1\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|solutionrelative:meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|d:\\lab1repo\\consoleapp1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|d:\\lab1repo\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE252220-8728-4443-A534-D9327D2D71F9}|ConsoleApp1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Birthday.cs",
+              "DocumentMoniker": "D:\\Lab1Repo\\ConsoleApp1\\Birthday.cs",
+              "RelativeDocumentMoniker": "Birthday.cs",
+              "ToolTip": "D:\\Lab1Repo\\ConsoleApp1\\Birthday.cs",
+              "RelativeToolTip": "Birthday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:42:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "D:\\Lab1Repo\\ConsoleApp1\\Calendar.cs",
+              "RelativeDocumentMoniker": "Calendar.cs",
+              "ToolTip": "D:\\Lab1Repo\\ConsoleApp1\\Calendar.cs",
+              "RelativeToolTip": "Calendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:41:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Lab1Repo\\ConsoleApp1\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Lab1Repo\\ConsoleApp1\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:41:35.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Lab1Repo\\ConsoleApp1\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "D:\\Lab1Repo\\ConsoleApp1\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:41:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "D:\\Lab1Repo\\ConsoleApp1\\Meeting.cs",
+              "RelativeDocumentMoniker": "Meeting.cs",
+              "ToolTip": "D:\\Lab1Repo\\ConsoleApp1\\Meeting.cs",
+              "RelativeToolTip": "Meeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:40:42.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab1Repo\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Lab1Repo\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:39:18.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
